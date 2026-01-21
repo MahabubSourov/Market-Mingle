@@ -1,6 +1,6 @@
 # Market-Mingle
 
-📌Project Overview:
+📌Project Overview
 
 This project is developed as part of the Web
 Technologies course under the supervision of
@@ -23,7 +23,7 @@ The main objective of this project is to demonstrate:
 
 
 
-🛠️Technologies Used:
+🛠️Technologies Used
 
 
 -HTML5 – Structure of web pages
