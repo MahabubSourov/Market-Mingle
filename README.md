@@ -4,7 +4,7 @@
 
 This project is developed as part of the Web
 Technologies course under the supervision of
-Md. Al Amin Sir. The project is built using HTML, CSS,
+Md. Hamid Uddin. The project is built using HTML, CSS,
 JavaScript, and PHP, following core web development
 principles includingfrontend design, client-side scripting, 
 and server-side processing.
