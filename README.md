@@ -1,4 +1,4 @@
-# Market-Mingle
+# Hotel Booking Management System
 
 📌Project Overview
 
